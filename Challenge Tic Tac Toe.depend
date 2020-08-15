@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1597430354 source:c:\users\pmnha\documents\programming\c\challenge tic tac toe\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
